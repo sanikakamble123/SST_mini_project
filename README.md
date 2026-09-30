@@ -1,2 +1,2 @@
 # SST_mini_project
-my project is about AIML
+my project is about AIML..
